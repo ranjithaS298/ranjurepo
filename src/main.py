@@ -12,4 +12,5 @@
 #what is your goal
 #what are you doing
 #sun moon star
+# good attitude
 
