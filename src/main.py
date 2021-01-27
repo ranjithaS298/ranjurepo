@@ -13,4 +13,10 @@
 #what are you doing
 #sun moon star
 # good attitude
+<<<<<<< HEAD
+=======
+#login done
+#logout done
+# v1 feature1
+>>>>>>> 778c5d3 (added v1 feature)
 
