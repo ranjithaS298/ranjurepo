@@ -17,8 +17,11 @@
 #logout done
 # v1 feature1
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 778c5d3 (added v1 feature)
 =======
 >>>>>>> 778c5d3 (added v1 feature)
 
